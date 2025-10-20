@@ -1,1 +1,5 @@
-# Cross-Buying-Behavior_Predictive-Modeling-
+# Predicting Customer Cross-buying Behavior using Ensemble Machine Learning Methods 🤖📊💡
+
+This study investigates the effectiveness of ensemble machine learning methods for predicting customer cross-buying behavior and identifies which factors influence the targeted cross-buying decision. Throughout different preprocessing and feature engineering techniques, Random Forest and Gradient Boosting models were implemented to predict the cross-buying likelihood from a dataset of 100,000 customers.
+
+Performance evaluation on validation data demonstrates that XGBoost algorithm achieves better discriminative power with AUC of 0.795 and GINI coefficient of 0.589, while Random Forest provides a more balanced precision-recall rates. Variable importance measures analysis recognized income as the most influential predictor across both models, followed by internet banking login frequency and customer tenure. These findings suggest customer segmentation strategies based on income classification, along with real-time digital engagement monitoring systems and customer lifecycle-specific marketing approaches for enhancing cross-selling campaign effectiveness.
